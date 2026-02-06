@@ -1,5 +1,7 @@
 # lsf-lpic1
 
-## Arquivos utilizados durante o curso Preparatório para Certificação Linux LPIC-1 da Plataforma Linux Sem Fronteiras.
+## Files used during the LPIC-1 Preparatory Course of Certify Linux Platform.
+
+The files and directories in the repository are named in Portuguese, exactly as they are used during the lessons.
 
 Autor: Ricardo Prudenciato
