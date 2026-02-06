@@ -1,4 +1,4 @@
-# lsf-lpic1
+# cl-lpic1
 
 ## Files used during the LPIC-1 Preparatory Course of Certify Linux Platform.
 
